@@ -1,12 +1,12 @@
 # ①課題名
 お買い物リスト(login機能追加)
 
-
 ## ②課題内容（どんな作品か）
-とりあえずログインできるようにしました、もうちょい手直しします
+あの便利な買うものを登録しておけるやーつに、なんとログイン機能がつきました
+
 
 ## ③アプリのデプロイURL
-https://chikuwa818.sakura.ne.jp/kadai_php_login_sakura/index.php
+https://chikuwa818.sakura.ne.jp/kadai_php_login_sakura
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 ID:gs1
 pass:gs1
