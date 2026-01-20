@@ -8,7 +8,8 @@
 ## ③アプリのデプロイURL
 https://chikuwa818.sakura.ne.jp/kadai_php_login_sakura/index.php
 ## ④アプリのログイン用IDまたはPassword（ある場合）
-なし
+ID:gs1
+pass:gs1
 
 ## ⑤工夫した点・こだわった点
 授業でやった内容に忠実に。
